@@ -13,4 +13,4 @@ This is my so_long and here's what you need to know :
 
 Have fun :)
 
-ps: The bigger the map the longer it takes to load everything, so don't get mad, I have no idea why it takes so much time even for when there is no enemy, sorry :(
+ps: The bigger the map the longer it takes to load everything, so don't get mad, I have no idea why it takes so much time even when there is no enemy, sorry :(
