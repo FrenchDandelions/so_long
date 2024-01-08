@@ -12,3 +12,5 @@ This is my so_long and here's what you need to know :
 -Finally this is how you should put your arguments to play : ./so_long_bonus maps/valid_maps/map.ber (you can use any map you want inside the valid_maps directory, this is just an example).
 
 Have fun :)
+
+ps: The bigger the map the longer it takes to load everything, so don't get mad, I have no idea why it takes so much time even for when there is no enemy, sorry :(
