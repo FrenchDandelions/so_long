@@ -1,7 +1,7 @@
 # so_long
 This is my so_long and here's what you need to know :
 
--There's a max for the height/width of the map.
+-There's a max for the height/width for the map.
 
 -Use make to compile the mandatory program and make bonus to compile the bonus program.
 
